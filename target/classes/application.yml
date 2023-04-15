@@ -1,0 +1,9 @@
+server:
+  port: 8002
+  shutdown: graceful
+  
+  
+spring:
+  application:
+    name: kafka-consumers-service-1
+
