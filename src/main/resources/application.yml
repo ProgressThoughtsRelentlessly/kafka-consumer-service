@@ -6,4 +6,8 @@ server:
 spring:
   application:
     name: kafka-consumers-service-1
-
+  devtools:
+    restart:
+      enabled: false
+    livereload:
+      enabled: false
